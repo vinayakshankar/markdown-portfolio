@@ -1,3 +1,3 @@
--1 :Laugh:
--2 :Smile:
--3 :Tree:
+- 1 :Laugh:
+- 2 :Smile:
+- 3 :Tree:
