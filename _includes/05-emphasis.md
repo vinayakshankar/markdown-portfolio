@@ -1,2 +1,2 @@
-- 1 :head: Leadership
-- 2 :smile: Friendly
+- 1 :head: _Leadership_
+- 2 :smile: *Friendly*
